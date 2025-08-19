@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68a47b7197535b0f5e95c12e"
+  },
+  "Nome": "Augusto",
+  "RM": 342576,
+  "Turma": "1TIAPF"
+},
+{
+  "_id": {
+    "$oid": "68a47cfe97535b0f5e95c131"
+  },
+  "Nome": "Gabriel",
+  "RM": 654798,
+  "Turma": "1TIAPF"
+},
+{
+  "_id": {
+    "$oid": "68a47d3697535b0f5e95c132"
+  },
+  "Nome": "Sofia",
+  "RM": 654150,
+  "Turma": "1TIAPF"
+},
+{
+  "_id": {
+    "$oid": "68a47d4f97535b0f5e95c133"
+  },
+  "Nome": "Felipe",
+  "RM": 654550,
+  "Turma": "1TIAPF"
+},
+{
+  "_id": {
+    "$oid": "68a4836c97535b0f5e95c135"
+  },
+  "Nome": "Ana",
+  "RM": 568798,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a4838397535b0f5e95c136"
+  },
+  "Nome": "Bianca",
+  "RM": 568787,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a4839597535b0f5e95c137"
+  },
+  "Nome": "Luis",
+  "RM": 587798,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a483a797535b0f5e95c138"
+  },
+  "Nome": "Tadeu",
+  "RM": 471798,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a483b797535b0f5e95c139"
+  },
+  "Nome": "Jorge",
+  "RM": 641798,
+  "Turma": "1TIAPZ"
+},
+{
+  "_id": {
+    "$oid": "68a483cd97535b0f5e95c13a"
+  },
+  "Nome": "Roberto",
+  "RM": 568500,
+  "Turma": "1TIAPZ"
+},
+{
+  "_id": {
+    "$oid": "68a483e597535b0f5e95c13b"
+  },
+  "Nome": "Mateus",
+  "RM": 103798,
+  "Turma": "1TIAPZ"
+},
+{
+  "_id": {
+    "$oid": "68a483fe97535b0f5e95c13c"
+  },
+  "Nome": "Beatriz",
+  "RM": 568103,
+  "Turma": "1TIAPZ"
+},
+{
+  "_id": {
+    "$oid": "68a4841397535b0f5e95c13d"
+  },
+  "Nome": "Izaque",
+  "RM": 564578,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a4842497535b0f5e95c13e"
+  },
+  "Nome": "Hebert",
+  "RM": 897798,
+  "Turma": "1TIAPY"
+},
+{
+  "_id": {
+    "$oid": "68a4843497535b0f5e95c13f"
+  },
+  "Nome": "Alcides",
+  "RM": 568568,
+  "Turma": "1TIAPY"
+}]
